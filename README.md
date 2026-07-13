@@ -1,0 +1,1 @@
+Frontend Developer 1 Frontend Developer 2 Frontend Developer 3 UI design system, layout, navigation Patient management interface Appointment scheduling interface Backend Developer 1 Backend Developer 2 Backend Developer 3 Authentication, user roles, clinic tenant structure Patient database, notes, file storage Appointment scheduling database and logic
